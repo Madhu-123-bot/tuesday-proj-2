@@ -2,4 +2,4 @@ FROM httpd
 
 COPY . /usr/local/apache2/htdocs/
 
-EXPOSE 81
+EXPOSE 82
